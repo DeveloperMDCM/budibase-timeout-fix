@@ -46,7 +46,7 @@ proxy-service:
 > ⚠️ `HTTP_HEADERS_TIMEOUT_MS` siempre debe ser mayor que `HTTP_KEEPALIVE_TIMEOUT_MS` o Node.js lanzará un warning.
 
 ## Versión probada
-
+- Budibase `3.14.0`
 - Budibase `3.28.2`
 
 ## Referencias
